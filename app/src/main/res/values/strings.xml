@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Design App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="intro_1">Gas app allows you to book for a gas by connecting you with gas vendors in your area for quick delivery</string>
+    <string name="intro_2">Tap on Make a Request button below and choose whether you want a gas pickup or a gas exchange</string>
+    <string name="intro_3">Select a payment card from existing cards in your account oe add new card.</string>
+    <string name="intro_4">Money will not be deducted from your account until your order has been deliverd</string>
+</resources>
